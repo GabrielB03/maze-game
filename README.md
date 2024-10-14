@@ -6,7 +6,6 @@ A simple JavaFX maze game where the player navigates through a randomly generate
 
 - Randomly generated mazes
 - Player movement using arrow keys or WASD
-- Fullscreen mode
 - Restart option after winning
 
 ## Getting Started
