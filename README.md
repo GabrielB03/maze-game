@@ -36,7 +36,7 @@ A simple JavaFX maze game where the player navigates through a randomly generate
 • **Move Right**: D or Right Arrow
 • **Restart Game**: Press R after winning
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Please create a pull request for any improvements or features you'd like to add.
 
