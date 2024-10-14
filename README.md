@@ -1,6 +1,6 @@
 # Maze Game
 
-A simple JavaFX maze game where the player navigates through a randomly generated maze. The goal is to reach the exit while avoiding walls. The game supports controls via the arrow keys or WASD, and features fullscreen mode.
+A simple JavaFX maze game where the player navigates through a randomly generated maze. The goal is to reach the exit while avoiding walls. The game supports controls via the arrow keys or WASD.
 
 ## Features
 
