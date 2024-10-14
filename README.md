@@ -41,7 +41,7 @@ Contributions are welcome! Please create a pull request for any improvements or 
 
 ## Project Test
 
-
+![maze_game_test](https://github.com/user-attachments/assets/c6e72e9b-3168-4134-a148-cc284b75358a)
 
 ## License
 
