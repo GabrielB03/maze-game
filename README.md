@@ -30,10 +30,10 @@ A simple JavaFX maze game where the player navigates through a randomly generate
 
 ### Controls
 
-• **Move Up**: W or Up Arrow
-• **Move Down**: S or Down Arrow
-• **Move Left**: A or Left Arrow
-• **Move Right**: D or Right Arrow
+• **Move Up**: W or Up Arrow <br>
+• **Move Down**: S or Down Arrow <br>
+• **Move Left**: A or Left Arrow <br>
+• **Move Right**: D or Right Arrow <br>
 • **Restart Game**: Press R after winning
 
 ## Contributing
